@@ -1,0 +1,6 @@
+{
+  "name": "HelderZicht Reinigingsdiensten",
+  "description": "Professionele reinigingsdiensten voor particulieren, bedrijven en VvE's. Glasbewassing, gevelreiniging, vloerreiniging en specialistisch onderhoud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
